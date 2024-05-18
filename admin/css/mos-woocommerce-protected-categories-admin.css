@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.form-table td fieldset label.mos-cat-visibility-option {
+  display: block !important;
+  margin: 3px 0 !important;
+  padding: 2px 0;
+}
+.form-table td fieldset .select2 {
+  width: 95%;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+  padding: 2px 4px;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display {
+  padding-left: 18px;
+}/*# sourceMappingURL=mos-woocommerce-protected-categories-admin.css.map */

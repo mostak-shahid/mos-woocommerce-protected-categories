@@ -1,0 +1,2 @@
+# mos-woocommerce-protected-categories
+ 
